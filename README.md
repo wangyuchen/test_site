@@ -20,3 +20,16 @@ https://wwww.google.com
 <Details>
 blah blah
 </Details>
+
+
+With code:
+
+<Details>
+Some details
+  
+```
+with another code block
+```
+</Details>
+
+
