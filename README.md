@@ -1,12 +1,22 @@
 # test_site
 
-Test GFM features:
+Test GFM features.
+
+
+## Fenced Block
 
 ```
 fenced plain code block
 ```
 
-automatic links
+
+## automatic link
 https://wwww.google.com
 
 
+
+## Details
+
+<Details>
+blah blah
+</Details>
